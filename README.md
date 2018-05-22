@@ -1,3 +1,3 @@
 # hello-world
-double test
+amend test
 I am setting up github
